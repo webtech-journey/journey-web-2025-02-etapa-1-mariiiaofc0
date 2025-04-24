@@ -1,1 +1,6 @@
-Insira seu resumo aqui!
+github e uma plataforma online
+ que auxilia na ajuda no controle de arquivos e codigos essas ferramentas e muito importanteno no ambiente de desenvolvimento colaborativo.
+
+ classroom e plataforma que corrigi e gera relatorios de alunos.
+
+ codespace e uma plataforma que agente escreve e executa nossos codigos.
